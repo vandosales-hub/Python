@@ -1,0 +1,4 @@
+=== NOTA DE RESGATE (EXEMPLO) ===
+
+Este é um exemplo de nota de resgate para a simulação. NÃO é funcional.
+Para restaurar os arquivos, utilize o script simulate_ransomware.py restore

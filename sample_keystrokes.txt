@@ -1,0 +1,5 @@
+login: usuario_teste
+senha: ********
+Hello world!
+Comando: ls -la
+Mensagem: Teste de digitação
